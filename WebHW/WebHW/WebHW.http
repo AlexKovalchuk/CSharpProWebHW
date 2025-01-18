@@ -1,0 +1,6 @@
+@WebHW_HostAddress = http://localhost:5272
+
+GET {{WebHW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

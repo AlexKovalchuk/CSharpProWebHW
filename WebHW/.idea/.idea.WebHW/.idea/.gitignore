@@ -1,0 +1,47 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]eploy/
+[Dd]ist/
+
+# User-specific files
+.vscode/
+.idea/
+.vs/
+# Rider
+.idea/
+
+# User-specific files from JetBrains Rider
+/.idea/
+/.idea.WebHW.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+httpRequests/
+
+# npm packages
+node_modules/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msp
+
+# Azure Web Apps
+Publish/
+publish/
+
+# JetBrains Rider files
+/.idea
