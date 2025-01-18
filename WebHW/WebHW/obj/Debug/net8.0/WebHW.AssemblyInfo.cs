@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebHW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a421a05db461d5c4cf74045bdee71b5195762f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a33bf0e5ddb314bf5988e1a0b9b8b20e4486ab6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebHW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebHW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
